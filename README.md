@@ -1,3 +1,4 @@
+
 # Copy-Paste
 Unofficial implementation of the copy-paste augmentation from [Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation](https://arxiv.org/abs/2012.07177v1).
 
