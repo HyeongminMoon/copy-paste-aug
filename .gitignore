@@ -3,3 +3,5 @@ __pycache__/
 *.zip
 coco/
 rvm_model/
+result/
+seg/
